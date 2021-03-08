@@ -6,7 +6,7 @@
   <link href="liuqnhust.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/liuqnhust/liuqnhust.github.io/"/>
-  <updated>2021-03-08T01:38:09.315Z</updated>
+  <updated>2021-03-08T01:42:23.653Z</updated>
   <id>https://github.com/liuqnhust/liuqnhust.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>My first blog</title>
-    <link href="https://github.com/liuqnhust/liuqnhust.github.io/2020/02/18/1/"/>
-    <id>https://github.com/liuqnhust/liuqnhust.github.io/2020/02/18/1/</id>
-    <published>2020-02-18T13:17:35.000Z</published>
-    <updated>2021-03-08T01:38:09.315Z</updated>
+    <link href="https://github.com/liuqnhust/liuqnhust.github.io/2020/03/08/1/"/>
+    <id>https://github.com/liuqnhust/liuqnhust.github.io/2020/03/08/1/</id>
+    <published>2020-03-08T01:47:20.000Z</published>
+    <updated>2021-03-08T01:42:23.653Z</updated>
     
     <summary type="html">
     
@@ -38,11 +38,9 @@
       <category term="Blog" scheme="https://github.com/liuqnhust/liuqnhust.github.io/categories/Blog/"/>
     
     
-      <category term="Github" scheme="https://github.com/liuqnhust/liuqnhust.github.io/tags/Github/"/>
+      <category term="blog" scheme="https://github.com/liuqnhust/liuqnhust.github.io/tags/blog/"/>
     
-      <category term="Hexo" scheme="https://github.com/liuqnhust/liuqnhust.github.io/tags/Hexo/"/>
-    
-      <category term="博客搭建" scheme="https://github.com/liuqnhust/liuqnhust.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="随笔" scheme="https://github.com/liuqnhust/liuqnhust.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   

@@ -5,8 +5,8 @@
     
     <entry>
       <title>My first blog</title>
-      <link href="liuqnhust.github.io/2020/02/18/1/"/>
-      <url>liuqnhust.github.io/2020/02/18/1/</url>
+      <link href="liuqnhust.github.io/2020/03/08/1/"/>
+      <url>liuqnhust.github.io/2020/03/08/1/</url>
       
         <content type="html"><![CDATA[<p>#my first blog#<br>这个博客将作为我的一个人生记录，记录我的学习笔记，记录我生活中一些比较重要的事情，以及生活中的所思所想。希望他可以相伴我很久很久！</p>]]></content>
       
@@ -20,11 +20,9 @@
       
         <tags>
             
-            <tag> Github </tag>
+            <tag> blog </tag>
             
-            <tag> Hexo </tag>
-            
-            <tag> 博客搭建 </tag>
+            <tag> 随笔 </tag>
             
         </tags>
       
